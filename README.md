@@ -15,9 +15,9 @@
 - [Figma]()   
 
 **Документация**  
-- Техническое задание [pdf]() [dock]()
-- Предпроектное исследование [pdf]() [dock]()
-- Презентация (1 аттестация) [pdf]() [pptx]()  
+- Техническое задание [pdf]() [docx]()
+- Предпроектное исследование [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Предпроектное%20Исследование.pdf) [docx](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Предпроектное%20Исследование.docx)
+- Презентация (1 аттестация) [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Презентация%20(Аттестация%201).pdf)
 
 **Видео**  
 - Видеопрезентация (1 аттестация): [RuTube]()
