@@ -20,6 +20,6 @@
 - Презентация (1 аттестация) [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Презентация%20(Аттестация%201).pdf)
 
 **Видео**  
-- Видеопрезентация (1 аттестация): [RuTube]()
+- Видеопрезентация (1 аттестация): [RuTube](https://rutube.ru/video/private/438c1e4a8bb62eb14a7ff71f02b8cfe7/?p=Hfu5rN4Zz8zp74hpClCSIQ)
   
 **Проверка и Фидбек**  
