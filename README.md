@@ -24,7 +24,7 @@
 - Видеопрезентация (1 аттестация): [RuTube](https://rutube.ru/video/private/438c1e4a8bb62eb14a7ff71f02b8cfe7/?p=Hfu5rN4Zz8zp74hpClCSIQ)
   
 **Проверка и Фидбек**  
-- Кросс-ревью (1 аттестация): [pdf]()
+- Кросс-ревью (1 аттестация): [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Кросс-ревью%20(1%20аттестация).pdf)
 - Таблица группы
 - Таблица группы
 - Таблица группы
