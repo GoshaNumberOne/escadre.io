@@ -12,7 +12,7 @@
 **Ссылки на сервисы**  
 - [Trello]()
 - [Figma](https://www.figma.com/design/E5FNldMtgniGvgm3dz9f1t/escadre.io-UI?node-id=0-1&p=f&t=RJqkCo7Fw6hZ4klz-0)  
-- [Miro](https://miro.com/app/board/uXjVIKiwkHM=/)   
+- [Miro](https://miro.com/app/board/uXjVIKiwkHM=/) (Сценарии, Диаграммы, Roadmap)   
 
 **Документация**  
 - Техническое задание [pdf]() [docx]()
