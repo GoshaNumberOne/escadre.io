@@ -10,12 +10,12 @@
 - [Костин Артем](https://github.com/tokice) - DevOps
   
 **Ссылки на сервисы**  
-- [Trello]()
+- [Trello](https://trello.com/b/SJw8ddBW/Проект%20ТП)
 - [Figma](https://www.figma.com/design/E5FNldMtgniGvgm3dz9f1t/escadre.io-UI?node-id=0-1&p=f&t=RJqkCo7Fw6hZ4klz-0)  
 - [Miro](https://miro.com/app/board/uXjVIKiwkHM=/) (Сценарии, Диаграммы, Roadmap)   
 
 **Документация**  
-- Техническое задание [pdf]() [docx]()
+- Техническое задание [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Техническое%20Задание.pdf) [docx](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Техническое%20Задание.docx)
 - Предпроектное исследование [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Предпроектное%20Исследование.pdf) [docx](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Предпроектное%20Исследование.docx)
 - Презентация (1 аттестация) [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Презентация%20(Аттестация%201).pdf)
 
