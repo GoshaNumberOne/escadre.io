@@ -13,7 +13,7 @@
 **Ссылки на сервисы**  
 - [Trello](https://trello.com/b/SJw8ddBW/Проект%20ТП)
 - [Figma](https://www.figma.com/design/E5FNldMtgniGvgm3dz9f1t/escadre.io-UI?node-id=0-1&p=f&t=RJqkCo7Fw6hZ4klz-0)  
-- [Miro](https://miro.com/app/board/uXjVIKiwkHM=/) (Сценарии, Диаграммы, Roadmap)   
+- [Miro](https://miro.com/welcomeonboard/aG5OY2NHOVlJNmMreHVONi91OEZiWi9FaS84ZWp3YkM1TDlQaGdDWVlyUWFDVXVEUVl2c1dLWHVpWDd3QWdzZ3pjMDZXbUxsbkpHRmNINnE3eU95WGdnMTZPR2lqR2RwemFKVVQwNDhkODl5RXNzNzhsYVcvOTU1Y0VKeHFrVGxNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=873435599889) (Сценарии, Диаграммы, Roadmap)   
 
 **Документация**  
 - Техническое задание [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Техническое%20Задание.pdf) [docx](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Техническое%20Задание.docx)
