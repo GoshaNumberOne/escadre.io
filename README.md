@@ -23,7 +23,7 @@
 **Видео**  
 - Видеопрезентация (1 аттестация): [RuTube](https://rutube.ru/video/private/438c1e4a8bb62eb14a7ff71f02b8cfe7/?p=Hfu5rN4Zz8zp74hpClCSIQ)
   
-**Проверка и Фидбек**  
+**Кросс-проверка**  
 - Кросс-ревью (1 аттестация): [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Кросс-ревью%20(1%20аттестация).pdf)
 - [Таблица группы 3.1](https://github.com/Shao-Lin/Music-dating/blob/main/documentation/ВГУ-ТП.%20Чеклист%201%20этап%203.1%20команда.pdf)
 - [Таблица группы 1.3](https://github.com/Aleygv/Fishing_game/blob/main/Documents/ВГУ-ТП.%20Чеклист%201%20этап%201г3к%20-%20чеклист.pdf)
