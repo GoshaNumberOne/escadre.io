@@ -25,7 +25,8 @@
   
 **Проверка и Фидбек**  
 - Кросс-ревью (1 аттестация): [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Кросс-ревью%20(1%20аттестация).pdf)
-- Таблица группы
-- Таблица группы
-- Таблица группы
-- Таблица группы
+- [Таблица группы 3.1] (https://github.com/Shao-Lin/Music-dating/blob/main/documentation/ВГУ-ТП.%20Чеклист%201%20этап%203.1%20команда.pdf)
+- [Таблица группы 1.3] (https://github.com/Aleygv/Fishing_game/blob/main/Documents/ВГУ-ТП.%20Чеклист%201%20этап%201г3к%20-%20чеклист.pdf)
+- [Таблица группы 2.1] (https://github.com/2group1team/VoiceChef/blob/master/Documentation/ВГУ-ТП.%20Чеклист%201%20этап%202г1к%20-%20чеклист.pdf)
+- [Таблица группы 8.5] (https://docs.google.com/spreadsheets/d/14pd8UNl85quk7TuTDoyfVe29yNMbXnO-Itg9Sz_2X3g/edit?gid=995648071#gid=995648071)
+- [Таблица группы 3.4] (https://github.com/uyrtryu/MindCard/blob/main/Documentation/checklist1atta.pdf)
