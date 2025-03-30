@@ -2,17 +2,17 @@
 Многопользовательская игра про морские баталии с мобильной и веб-версией.
 
 **Команда**  
-- [Семыкин Иван](https://github.com/GoshaNumberOne) - PM, Team-lead, разработчик
+- [Семыкин Иван](https://github.com/GoshaNumberOne) - PM, разработчик
 - [Александров Дмитрий](https://github.com/wmaZHnitXu) - Главный разработчик, Дизайнер
 - [Сопельняк Андрей]() - Дизайнер, UI/UX
-- [Ларичев Никита]() - Аналитик, QA
+- [Ларичев Никита]() - Аналитик
 - [Нагорных Константин]() - 3D-моделлер, саунд-дизайнер
 - [Костин Артем]() - DevOps
   
 **Ссылки на сервисы**  
 - [Trello]()
-- [Figma]()  
-- [Miro]()   
+- [Figma](https://www.figma.com/design/E5FNldMtgniGvgm3dz9f1t/escadre.io-UI?node-id=0-1&p=f&t=RJqkCo7Fw6hZ4klz-0)  
+- [Miro](https://miro.com/app/board/uXjVIKiwkHM=/)   
 
 **Документация**  
 - Техническое задание [pdf]() [docx]()
