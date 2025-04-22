@@ -6,11 +6,11 @@
 - [Семыкин Иван](https://github.com/GoshaNumberOne) - PM, разработчик
 - [Александров Дмитрий](https://github.com/wmaZHnitXu) - Главный разработчик, Дизайнер
 - [Сопельняк Андрей](https://github.com/SopelnyakAV) - Дизайнер, UI/UX
-- [Нагорных Константин](https://github.com/FOSst2003) - 3D-моделлер, саунд-дизайнер
+- [Нагорных Константин](https://github.com/FOSst2003) - 3D-моделлер, QA
 - [Костин Артем](https://github.com/tokice) - DevOps
   
 **Ссылки на сервисы**  
-- [Trello](https://trello.com/b/SJw8ddBW/Проект%20ТП)
+- [YouGile](https://ru.yougile.com/board/g1z4t5cqzm61)
 - [Figma](https://www.figma.com/design/E5FNldMtgniGvgm3dz9f1t/escadre.io-UI?node-id=0-1&p=f&t=RJqkCo7Fw6hZ4klz-0)  
 - [Miro](https://miro.com/welcomeonboard/aG5OY2NHOVlJNmMreHVONi91OEZiWi9FaS84ZWp3YkM1TDlQaGdDWVlyUWFDVXVEUVl2c1dLWHVpWDd3QWdzZ3pjMDZXbUxsbkpHRmNINnE3eU95WGdnMTZPR2lqR2RwemFKVVQwNDhkODl5RXNzNzhsYVcvOTU1Y0VKeHFrVGxNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=873435599889) (Сценарии, Диаграммы, Roadmap)   
 
