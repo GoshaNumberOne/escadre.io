@@ -29,3 +29,6 @@
 - [Таблица группы 2.1](https://github.com/2group1team/VoiceChef/blob/master/Documentation/ВГУ-ТП.%20Чеклист%201%20этап%202г1к%20-%20чеклист.pdf)
 - [Таблица группы 8.5](https://docs.google.com/spreadsheets/d/14pd8UNl85quk7TuTDoyfVe29yNMbXnO-Itg9Sz_2X3g/edit?gid=995648071#gid=995648071)
 - [Таблица группы 3.4](https://github.com/uyrtryu/MindCard/blob/main/Documentation/checklist1atta.pdf)
+
+**Отчеты**
+- [Отчет 1](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Отчет_1.pdf)
