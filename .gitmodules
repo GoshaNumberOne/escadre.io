@@ -2,5 +2,5 @@
 	path = Client
 	url = https://github.com/wmaZHnitXu/escadre.io-unity-client.git
 [submodule "escadre.io-master-server"]
-	path = escadre.io-master-server
+	path = MasterServer
 	url = https://github.com/GoshaNumberOne/escadre.io-master-server
