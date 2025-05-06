@@ -30,7 +30,8 @@
 - [Таблица группы 8.5](https://docs.google.com/spreadsheets/d/14pd8UNl85quk7TuTDoyfVe29yNMbXnO-Itg9Sz_2X3g/edit?gid=995648071#gid=995648071)
 - [Таблица группы 3.4](https://github.com/uyrtryu/MindCard/blob/main/Documentation/checklist1atta.pdf)
 
-**Отчеты**
+**PM-отчеты**
 - [Отчет 1](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Отчет_1.pdf)
 - [Отчет 2](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Отчет_2.pdf)
 - [Отчет 3](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Отчет_3.pdf)
+- [Отчет Итоговый](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Отчет_ИТОГ%20(1).pdf)
