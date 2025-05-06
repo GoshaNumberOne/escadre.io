@@ -18,6 +18,7 @@
 - Техническое задание [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Техническое%20Задание.pdf) [docx](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Техническое%20Задание.docx)
 - Предпроектное исследование [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Предпроектное%20Исследование.pdf) [docx](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Предпроектное%20Исследование.docx)
 - Презентация (1 аттестация) [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Презентация%20(Аттестация%201).pdf)
+- Презентация (2 аттестация) [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Презентация%20(Аттестация%202).pdf)
 
 **Видео**  
 - Видеопрезентация (1 аттестация): [RuTube](https://rutube.ru/video/private/438c1e4a8bb62eb14a7ff71f02b8cfe7/?p=Hfu5rN4Zz8zp74hpClCSIQ)
