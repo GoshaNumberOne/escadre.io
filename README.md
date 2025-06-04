@@ -17,11 +17,11 @@
 **Документация**  
 - Техническое задание [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Техническое%20Задание.pdf) [docx](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Техническое%20Задание.docx)
 - Предпроектное исследование [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Предпроектное%20Исследование.pdf) [docx](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Предпроектное%20Исследование.docx)
-- Стратегия тестирования [pdf]()
-- Тест-кейсы [pdf]()
+- Стратегия тестирования [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Test%20Strategy.pdf)
+- Тест-кейсы [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Test_Cases%20.pdf)
 - Презентация (1 аттестация) [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Презентация%20(Аттестация%201).pdf)
 - Презентация (2 аттестация) [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Презентация%20(Аттестация%202).pdf)
-- Презентация (3 аттестация) [pdf]()
+- Презентация (3 аттестация) [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/escadre_io_over%20(1).pdf)
 - Презентация (Защита) [pdf]()
 
 **Видео**  
