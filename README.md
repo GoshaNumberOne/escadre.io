@@ -12,7 +12,7 @@
 **Ссылки на сервисы**  
 - [YouGile](https://ru.yougile.com/board/g1z4t5cqzm61)
 - [Figma](https://www.figma.com/design/E5FNldMtgniGvgm3dz9f1t/escadre.io-UI?node-id=0-1&p=f&t=RJqkCo7Fw6hZ4klz-0)  
-- [Miro](https://miro.com/app/board/uXjVIKiwkHM=/) (Сценарии, Диаграммы, Roadmap)   
+- [Miro](https://miro.com/app/board/uXjVIKiwkHM=/?share_link_id=710857068559) (Сценарии, Диаграммы, Roadmap)   
 
 **Документация**  
 - Техническое задание [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Техническое%20Задание.pdf) [docx](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Техническое%20Задание.docx)
