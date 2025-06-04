@@ -18,7 +18,7 @@
 - [Miro](https://miro.com/app/board/uXjVIKiwkHM=/?share_link_id=710857068559) (Сценарии, Диаграммы, Roadmap)   
 
 **Документация**  
-- Техническое задание [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Техническое%20Задание.pdf) [docx](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Техническое%20Задание.docx)
+- Техническое задание [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/ТЗ_исправления_форматирования.pdf) [docx](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/ТЗ_исправления_форматирования.docx)
 - Предпроектное исследование [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Предпроектное%20Исследование.pdf) [docx](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Предпроектное%20Исследование.docx)
 - Стратегия тестирования [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Test%20Strategy.pdf)
 - Тест-кейсы [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Test_Cases%20.pdf)
