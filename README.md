@@ -51,6 +51,6 @@
 - [Отчет Итоговый](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Отчет_ИТОГ%20(1).pdf)
 - [Отчет 5](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Отчет_5.pdf)
 - [Отчет 6](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Отчет_6.pdf)
-- [Отчет Финальный]()
+- [Отчет Финальный](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Отчет_финал.pdf)
 
 
