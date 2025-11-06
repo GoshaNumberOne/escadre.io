@@ -26,9 +26,6 @@
 - Презентация (2 аттестация) [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/Презентация%20(Аттестация%202).pdf)
 - Презентация (3 аттестация) [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/Documentation/escadre_io_over%20(1).pdf)
 - Презентация (Защита) [pdf]()
-
-**Видео**  
-- Видеопрезентация (1 аттестация): [RuTube](https://rutube.ru/video/private/438c1e4a8bb62eb14a7ff71f02b8cfe7/?p=Hfu5rN4Zz8zp74hpClCSIQ)
   
 **Кросс-проверка**  
 - Кросс-ревью (1 аттестация): [pdf](https://github.com/GoshaNumberOne/escadre.io/blob/main/documentation/Кросс-ревью%20(1%20аттестация).pdf)
